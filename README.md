@@ -1,5 +1,8 @@
 # Combo-Tools [ By aliilapro ]
 Tool For Edit Combo
+* Convert Combo Email:pass to user:pass
+* remove user / email
+* ...
 - Coded Via Visual Basic
 - 🔱 ID Telegram : Https://t.me/aliilapro
 - 🔱 Channel Telegram : Https://t.me/Source_pro
